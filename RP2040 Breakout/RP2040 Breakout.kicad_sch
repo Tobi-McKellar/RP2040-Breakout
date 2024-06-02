@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "RP2040 Breakout")
+    (date "2024-06-03")
+    (rev "1")
+    (company "Tobias McKellar")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x16_Pin" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 20.32 0)
